@@ -4,10 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notification - WKTextInputWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>WKTextInput.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>WKTextInputWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -18,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>DCAD6A961BD1671500D5A7FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCAD6AA71BD1673000D5A7FB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
